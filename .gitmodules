@@ -1,0 +1,3 @@
+[submodule "themes/sp-minimal"]
+	path = themes/sp-minimal
+	url = https://github.com/eueung/hugo-sp-minimal.git
