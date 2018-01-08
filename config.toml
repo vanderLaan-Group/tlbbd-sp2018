@@ -1,12 +1,12 @@
 baseurl         = "https://vanderLaan-group.github.io/tlbbd-sp2018/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "PH290 - TLBBD"
+title           = "PH290-TLBBD"
 disqusShortname = ""
 paginate        = 5
 
 [params]
-  title       = "PH 290 - TLBBD"
+  title       = "PH 290 | CCN: 42472"
   subtitle    = "Targeted Learning in Biomedical Big Data"
   copyright   = "Released under the MIT license."
   authorImage = "logo-tl.jpeg"
@@ -19,6 +19,6 @@ paginate        = 5
   googleAnalytics = ""
 
   name = "Mark van der Laan, Nima Hejazi, Wilson Cai, David Benkeser"
-  description = "Welcome to the course website for Targeted Learning in Biomedical Big Data at UC Berkeley (Spring 2018)"
+  description = "Welcome to the course website for Targeted Learning in Biomedical Big Data at UC Berkeley in Spring 2018."
   pageNotFoundTitle = "404 - Page not found"
 

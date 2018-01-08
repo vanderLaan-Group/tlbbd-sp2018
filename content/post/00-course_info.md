@@ -1,5 +1,5 @@
 +++
-title = "Welcome to TLBBD!"
+title = "Welcome to Targeted Learning in Biomedical Big Data!"
 description = "Course information"
 date = "2018-01-07"
 menu = "main"
@@ -12,7 +12,9 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
 
 * Instructor: Mark van der Laan
 
-* GSI: Nima Hejazi
+* Graduate Student Instructor: Nima Hejazi
+
+* Course Control Number: 42472
 
 * Lectures: TuTh 11:00A-12:30P in Mulford 230
 
