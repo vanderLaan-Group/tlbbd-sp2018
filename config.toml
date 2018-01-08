@@ -1,4 +1,4 @@
-baseurl         = "https://vanderLaan.github.io/tlbbd-sp2018/"
+baseurl         = "https://vanderLaan.github.io/tlbbd-sp2018"
 theme           = "sp-minimal"
 languageCode    = "en-us"
 title           = "PH290 - TLBBD"
