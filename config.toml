@@ -1,15 +1,15 @@
-baseurl         = "https://eueung.github.io/hugo-sp-minimal/"
+baseurl         = "https://vanderLaan.github.io/tlbbd-sp2018/"
 theme           = "sp-minimal"
 languageCode    = "en-us"
-title           = "SP-Minimal"
+title           = "PH290 - TLBBD"
 disqusShortname = ""
 paginate        = 5
 
 [params]
-  title       = "SP-Minimal"
-  subtitle    = "Another Minimalist Theme for Hugo"
+  title       = "PH 290 - TLBBD"
+  subtitle    = "Targeted Learning in Biomedical Big Data"
   copyright   = "Released under the MIT license."
-  authorImage = "logo.png"
+  authorImage = "logo-tl.jpeg"
 
   #"single" or "multi"
   renderType = "multi"
@@ -18,7 +18,7 @@ paginate        = 5
 
   googleAnalytics = ""
 
-  name = "EM"
-  description = "Here is a description of your site."
+  name = "Mark van der Laan, Nima Hejazi, Wilson Cai, David Benkeser"
+  description = "Welcome to the course website for Targeted Learning in Biomedical Big Data at UC Berkeley (Spring 2018)"
   pageNotFoundTitle = "404 - Page not found"
 
