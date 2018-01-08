@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PH 290 - TLBBD</title>
-    <link>https://vanderLaan.github.io/tlbbd-sp2018/</link>
+    <link>https://vanderLaan-group.github.io/tlbbd-sp2018/</link>
     <description>Recent content on PH 290 - TLBBD</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
     <lastBuildDate>Sun, 07 Jan 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vanderLaan.github.io/tlbbd-sp2018/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vanderLaan-group.github.io/tlbbd-sp2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome to TLBBD!</title>
-      <link>https://vanderLaan.github.io/tlbbd-sp2018/post/00-course_info/</link>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</link>
       <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://vanderLaan.github.io/tlbbd-sp2018/post/00-course_info/</guid>
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</guid>
       <description> Welcome! This is the course website for Targeted Learning in Biomedical Big Data, offered in the Spring 2018 semester at UC Berkeley.
 Course Information  Instructor: Mark van der Laan
  GSI: Nima Hejazi
