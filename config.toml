@@ -6,7 +6,7 @@ disqusShortname = ""
 paginate        = 5
 
 [params]
-  title       = "PH 290 | CCN: 42472"
+  title       = "PH 290-011: TLBBD"
   subtitle    = "Targeted Learning in Biomedical Big Data"
   copyright   = "Released under the MIT license."
   authorImage = "logo-tl.jpeg"
