@@ -3,12 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/00-course_info/</loc>
+  </url>
+  
+  <url>
     <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</loc>
     <lastmod>2018-01-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/</loc>
     <priority>0</priority>
   </url>
   
