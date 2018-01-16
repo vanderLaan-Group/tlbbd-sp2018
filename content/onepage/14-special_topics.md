@@ -3,7 +3,6 @@ title = "Special Topics: Variable Importance, CV-TMLE, Doubly Robust Inference"
 description = "A rapid discussion of recent developments in the Targeted Learning literature"
 author = "Nima Hejazi"
 publishDate = "2018-04-25"
-menu = "main"
 draft = false
 weight = 15
 +++

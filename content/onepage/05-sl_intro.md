@@ -3,7 +3,6 @@ title = "Introduction to Super Learning and the `sl3` R package"
 description = "An introduction to asymptotically optimal ensemble machine learning"
 author = "Nima Hejazi"
 publishDate = "2018-02-14"
-menu = "main"
 draft = false
 weight = 6
 +++

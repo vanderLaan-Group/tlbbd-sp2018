@@ -3,7 +3,6 @@ title = "The Highly Adaptive LASSO and the `hal9001` R package"
 description = "A discussion of the Highly Adaptive LASSO, in theory and practice"
 author = "Nima Hejazi"
 publishDate = "2018-03-07"
-menu = "main"
 draft = false
 weight = 9
 +++

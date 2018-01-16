@@ -3,7 +3,6 @@ title = "Computing Targeted Maximum Likelihood Estimators"
 description = "A general discussion of how to compute TML estimators"
 author = "Nima Hejazi"
 publishDate = "2018-04-11"
-menu = "main"
 draft = false
 weight = 13
 +++

@@ -2,8 +2,7 @@
 title = "Reproducible Research with R, git, and GitHub (part 2)"
 description = "Second part of an introduction to reproducible research"
 author = "Nima Hejazi"
-publishDate = "2018-01-17"
-menu = "main"
+publishDate = "2018-01-16"
 draft = false
 weight = 3
 +++

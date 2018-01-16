@@ -3,7 +3,6 @@ title = "Super Learning in survival analysis"
 description = "A walkthrough of applying Super Learning to estimate time-to-event (survival) outcomes"
 author = "Nima Hejazi"
 publishDate = "2018-04-04"
-menu = "main"
 draft = false
 weight = 12
 +++

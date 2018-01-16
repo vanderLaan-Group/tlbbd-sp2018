@@ -3,7 +3,6 @@ title = "Super Learner libraries and screening algorithms"
 description = "A discussion of how to construct Super Learner libraries and apply screening procedures"
 author = "Nima Hejazi"
 publishDate = "2018-02-21"
-menu = "main"
 draft = false
 weight = 7
 +++

@@ -3,7 +3,6 @@ title = "Estimation and inference with influence functions (part 1)"
 description = "First part of an examination of the statistical properties of influence functions"
 author = "Nima Hejazi"
 publishDate = "2018-03-14"
-menu = "main"
 draft = false
 weight = 10
 +++

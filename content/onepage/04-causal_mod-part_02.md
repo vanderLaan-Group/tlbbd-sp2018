@@ -3,7 +3,6 @@ title = "Structural Causal Models, Interventions, and Identifiability (part 2)"
 description = "Second part of an introduction to statistical causal inference"
 author = "Nima Hejazi"
 publishDate = "2018-02-07"
-menu = "main"
 draft = false
 weight = 5
 +++

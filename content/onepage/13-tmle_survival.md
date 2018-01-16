@@ -3,7 +3,6 @@ title = "Targeted Learning for Survival Analysis"
 description = "A discussion of how to apply Targeted Learning to survival analysis"
 author = "Nima Hejazi"
 publishDate = "2018-04-18"
-menu = "main"
 draft = false
 weight = 14
 +++

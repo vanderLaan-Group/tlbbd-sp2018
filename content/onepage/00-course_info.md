@@ -2,8 +2,7 @@
 title = "Welcome to Targeted Learning in Biomedical Big Data!"
 description = "Course information"
 author = "Nima Hejazi"
-publishDate = "2018/01/10"
-menu = "main"
+publishDate = "2018-01-10"
 draft = false
 weight = 1
 +++
@@ -13,7 +12,8 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
 
 ## <u>Course Information</u>
 
-* Instructor: [Mark van der Laan](https://vanderlaan-group.github.io/about/)
+* Faculty Instructor: [Mark van der
+    Laan](https://vanderlaan-group.github.io/about/)
   * Office Hours: Tu 4:00-5:00P in Haviland 108
 * Graduate Student Instructor: [Nima Hejazi](https://nimahejazi.org)
   * Office Hours: M 2:00-3:00P in Haviland 111
@@ -27,6 +27,7 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
 
 ## <u>Schedule</u>
 
-TBA
+The schedule of video lectures and content is publicly available
+[here](https://docs.google.com/spreadsheets/d/1YLbRnasRLkNRc3wsXlDB2ljk-vq5l4_H6Ihn1rgVinE/edit?usp=sharing).
 
 ---
