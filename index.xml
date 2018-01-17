@@ -28,7 +28,8 @@ Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Tu 4:00
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/01-repro_res-part_01/</guid>
-      <description>Lab 1: Reproducible Research with R, git, and GitHub (part 1) Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.</description>
+      <description>Lab 1: Reproducible Research with R, git, and GitHub (part 1) Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.
+Resources  Version Control with git (Software Carpentry) R for Reproducible Scientific Analysis (Software Carpentry) Tools for Reproducible Research (Karl Broman) Happy Git and GitHub for the useR (Jenny Bryan)  The above resources provide a mechanism to remedy any deficiencies that may be present in background knowledge on scientific computing.</description>
     </item>
     
     <item>
@@ -37,7 +38,16 @@ Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Tu 4:00
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/02-repro_res-part_02/</guid>
-      <description>Lab 2: Reproducible Research with R, git, and GitHub (part 2) For our second lab we&amp;rsquo;ll continue our discussion computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.</description>
+      <description>Lab 2: Reproducible Research with R, git, and GitHub (part 2) For our second lab, we&amp;rsquo;ll continue our discussion of computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 01)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/01-repro_res-part_01/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/01-repro_res-part_01/</guid>
+      <description>Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.</description>
     </item>
     
     <item>
