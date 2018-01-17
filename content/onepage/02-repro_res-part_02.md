@@ -9,8 +9,8 @@ weight = 3
 
 ## Lab 2: Reproducible Research with R, git, and GitHub (part 2)
 
-For our second lab we'll continue our discussion computationally reproducible
-research and further explore the simple toolbox at which we've already started
-to take a look.
+For our second lab, we'll continue our discussion of computationally
+reproducible research and further explore the simple toolbox at which we've
+already started to take a look.
 
 ---
