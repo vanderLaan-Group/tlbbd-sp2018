@@ -19,7 +19,7 @@
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/00-course_info/</guid>
       <description>Welcome! This is the course website for Targeted Learning in Biomedical Big Data, offered in the Spring 2018 semester at UC Berkeley.
-Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Tu 4:00-5:00P in Haviland 108  Graduate Student Instructor: Nima Hejazi  Office Hours: M 2:00-3:00P in Haviland 111  Course Control Number: 42472 Lectures: TuTh 11:00A-12:30P in Mulford 230 Labs: W 2:00-3:00P in Mulford 230 Syllabus (PDF)  Schedule The schedule of video lectures and content is publicly available here.</description>
+Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Tu 4:00-5:00P in Haviland 108  Graduate Student Instructor: Nima Hejazi  Office Hours: M 2:00-3:00P in Haviland 111  Syllabus (PDF) Course Control Number: 42472 Lectures: TuTh 11:00A-12:30P in Mulford 230 Labs: W 2:00-3:00P in Mulford 230 Mailing list: please subscribe here  Schedule The schedule of video lectures and content is publicly available here.</description>
     </item>
     
     <item>
@@ -28,7 +28,7 @@ Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Tu 4:00
       <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/01-repro_res-part_01/</guid>
-      <description>Lab 1: Reproducible Research with R, git, and GitHub (part 1) Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.
+      <description>Lab 1: Reproducible Research with R, git, GitHub (p.1) Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.
 Resources  Version Control with git (Software Carpentry) R for Reproducible Scientific Analysis (Software Carpentry) Tools for Reproducible Research (Karl Broman) Happy Git and GitHub for the useR (Jenny Bryan)  The above resources provide a mechanism to remedy any deficiencies that may be present in background knowledge on scientific computing.</description>
     </item>
     
@@ -38,7 +38,8 @@ Resources  Version Control with git (Software Carpentry) R for Reproducible Scie
       <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/02-repro_res-part_02/</guid>
-      <description>Lab 2: Reproducible Research with R, git, and GitHub (part 2) For our second lab, we&amp;rsquo;ll continue our discussion of computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.</description>
+      <description> Lab 2: Reproducible Research with R, git, GitHub (p.2) For our second lab, we&amp;rsquo;ll continue our discussion of computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
     </item>
     
   </channel>
