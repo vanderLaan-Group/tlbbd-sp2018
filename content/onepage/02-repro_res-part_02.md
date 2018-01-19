@@ -18,6 +18,6 @@ already started to take a look.
 * [GitHub repo (source)](https://github.com/tlbbd-spring2018/lab_01)
 * [nbviewer (static HTML)](http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_01/blob/master/lab_01-and-02.ipynb)
 * [binder (live
-notebook)](https://hub.mybinder.org/user/tlbbd-spring2018-lab_01-r6qn3y30/notebooks/lab_01-and-02.ipynb)
+   notebook)](https://mybinder.org/v2/gh/tlbbd-spring2018/lab_01/master)
 
 ---
