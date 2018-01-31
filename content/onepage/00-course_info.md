@@ -14,7 +14,7 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
 
 * Faculty Instructor: [Mark van der
     Laan](https://vanderlaan-group.github.io/about/)
-  * Office Hours: Th 11:45A-12:45P in Haviland 108
+  * Office Hours: Th 1:00-1:45P in Haviland 108
 * Graduate Student Instructor: [Nima Hejazi](https://nimahejazi.org)
   * Office Hours: W 3:00-4:00P in Haviland 114
 * [Syllabus (PDF)](https://www.stat.berkeley.edu/~nhejazi/teach/2018_ph290_tlbbd/syllabus.pdf)
