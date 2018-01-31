@@ -43,7 +43,7 @@ The schedule of video lectures and content is publicly available
 * Super Learner and an oracle inequality for the general cross-validation
    selector, Super Learning in prediction, Super Learning of optimal
    individualized treatment rules
-* The Highly Adaptive Lasso (HAL)
+* The Highly Adaptive Lasso (HAL) and nonparametric regression estimators
 * Asymptotic linearity, influence curves, and statistical inference based on
    influence curves
 * Pathwise differentiable target parameters, gradients and canonical gradient of
