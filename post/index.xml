@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
-    <lastBuildDate>Wed, 17 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanderLaan-group.github.io/tlbbd-sp2018/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 1)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/03-causal_mod-part_01/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/03-causal_mod-part_01/</guid>
+      <description>Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as the Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/02-repro_res-part_02/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/02-repro_res-part_02/</guid>
+      <description>For our second lab we&amp;rsquo;ll continue our discussion computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.</description>
+    </item>
     
     <item>
       <title>Reproducible Research with R, git, and GitHub (part 01)</title>
