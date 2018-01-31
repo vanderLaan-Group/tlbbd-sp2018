@@ -48,7 +48,8 @@ Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live noteboo
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
       <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part_01/</guid>
-      <description>Lab 3: Structural Causal Models, Interventions, and Identifiability (part 1) Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.</description>
+      <description> Lab 3: Structural Causal Models, Interventions, and Identifiability (p.1) Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
     </item>
     
     <item>
