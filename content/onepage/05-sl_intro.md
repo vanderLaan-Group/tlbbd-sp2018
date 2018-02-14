@@ -15,4 +15,11 @@ optimal ensemble learning algorithm, Super Learner. We'll dive into how to apply
 the Super Learning approach using the new [`sl3` R
 package](https://github.com/jeremyrcoyle/sl3).
 
+### Lab Materials
+
+* [GitHub repo (source)](https://github.com/tlbbd-spring2018/lab_05)
+* [nbviewer (static HTML)](http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_05/blob/master/sl3_intro.ipynb)
+* [binder (live
+   notebook)](https://mybinder.org/v2/gh/nhejazi/sl3_lecture/master)
+
 ---
