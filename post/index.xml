@@ -7,10 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license.</copyright>
-    <lastBuildDate>Wed, 31 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Feb 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://vanderLaan-group.github.io/tlbbd-sp2018/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Introduction to Super Learning and the `sl3` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</guid>
+      <description>Now that we&amp;rsquo;ve set the stage, for our fifth lab we&amp;rsquo;ll begin discussing flexible, data-adaptive estimation (i.e., machine learning), including the asymptotically optimal ensemble learning algorithm, Super Learner. We&amp;rsquo;ll dive into how to apply the Super Learning approach using the new sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</guid>
+      <description>For our fourth lab, we&amp;rsquo;ll continue our discussion of statistical causal inference, examining structural causal models in greater detail. We&amp;rsquo;ll expand on our conversation from last week by introducing how estimation may be performed using causal models, concluding with an introduction to inverse probability weighted (IPW) estimators.</description>
+    </item>
     
     <item>
       <title>Structural Causal Models, Interventions, and Identifiability (part 1)</title>

@@ -18,8 +18,28 @@
   </url>
   
   <url>
-    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part_01/</loc>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</loc>
     <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -61,7 +81,7 @@
   
   <url>
     <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/</loc>
-    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

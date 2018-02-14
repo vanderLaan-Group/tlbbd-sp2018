@@ -43,13 +43,51 @@ Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live noteboo
     </item>
     
     <item>
-      <title>Structural Causal Models, Interventions, and Identifiability (part 1)</title>
-      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part_01/</link>
+      <title>Structural Causal Models, Interventions, and Identifiability</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</link>
       <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part_01/</guid>
-      <description> Lab 3: Structural Causal Models, Interventions, and Identifiability (p.1) Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</guid>
+      <description> Lab 3: Structural Causal Models, Interventions, and Identifiability Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.
 Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</guid>
+      <description> Lab 4: Cross-Validation for Error Assessment For our fourth lab, we&amp;rsquo;re switching gears from causal inference to statistical estimation. We will go through an introduction to cross-validation, a technique that ensures we obtain honest estimates of the error of a given statistical estimation technique by splitting data splitting. We will also discuss the very general implementation of cross-validation in the recently developed origami R package.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Super Learning and the `sl3` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</guid>
+      <description> Lab 5: Introduction to the Super Learner Algorithm Now that we&amp;rsquo;ve set the stage, for our fifth lab we&amp;rsquo;ll begin discussing flexible, data-adaptive estimation (i.e., machine learning), including the asymptotically optimal ensemble learning algorithm, Super Learner. We&amp;rsquo;ll dive into how to apply the Super Learning approach using the new sl3 R package.
+Lab Materials  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Super Learning and the `sl3` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</guid>
+      <description>Now that we&amp;rsquo;ve set the stage, for our fifth lab we&amp;rsquo;ll begin discussing flexible, data-adaptive estimation (i.e., machine learning), including the asymptotically optimal ensemble learning algorithm, Super Learner. We&amp;rsquo;ll dive into how to apply the Super Learning approach using the new sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</guid>
+      <description>For our fourth lab, we&amp;rsquo;ll continue our discussion of statistical causal inference, examining structural causal models in greater detail. We&amp;rsquo;ll expand on our conversation from last week by introducing how estimation may be performed using causal models, concluding with an introduction to inverse probability weighted (IPW) estimators.</description>
     </item>
     
     <item>
