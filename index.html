@@ -1,0 +1,363 @@
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+    <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+    <title>PH 290-011: TLBBD</title>
+    <meta name="author" content="Mark van der Laan, Nima Hejazi">
+    <meta name="description" content="A special topics in Biostatistics course at UC Berkeley in Spring 2018.">
+    <meta name="generator" content="Hugo 0.32.2" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+
+    <link rel="shortcut icon" href="https://vanderLaan-group.github.io/tlbbd-sp2018/img/favicon.ico">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="https://vanderLaan-group.github.io/tlbbd-sp2018/css/styles.css">
+    <link rel="stylesheet" href="https://vanderLaan-group.github.io/tlbbd-sp2018/css/sp-minimal.css">
+    
+      <link rel="stylesheet" href="https://vanderLaan-group.github.io/tlbbd-sp2018/css/sp-minimal-simple.css">
+    
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/styles/default.min.css">
+</head>
+
+<body><div class="wrapper">
+
+<header class="text-center">
+   <img src="https://vanderLaan-group.github.io/tlbbd-sp2018/img/logo-tl.jpeg" class="img-circle s200"> 
+
+  
+    <h1 class="border-bottom add-padding-bottom"><a href="https://vanderLaan-group.github.io/tlbbd-sp2018/">PH 290-011: TLBBD</a></h1>
+  
+	
+  
+    <h2 class="text-right add-padding-right">Targeted Learning in Biomedical Big Data</h2>
+  
+
+  
+    <p class="text-right remove-margin-bottom add-padding-right">A special topics in Biostatistics course at UC Berkeley in Spring 2018.</p>
+  
+</header>
+
+
+
+
+
+  
+    
+      <section>
+      
+
+<p>Welcome! This is the course website for Targeted Learning in Biomedical Big
+Data, offered in the Spring 2018 semester at UC Berkeley.</p>
+
+<h2 id="u-course-information-u"><u>Course Information</u></h2>
+
+<ul>
+<li>Faculty Instructor: <a href="https://vanderlaan-group.github.io/about/">Mark van der
+Laan</a>
+
+<ul>
+<li>Office Hours: Th 1:00-1:45P in Haviland 108</li>
+</ul></li>
+<li>Graduate Student Instructor: <a href="https://nimahejazi.org">Nima Hejazi</a>
+
+<ul>
+<li>Office Hours: W 3:00-4:00P in Haviland 114</li>
+</ul></li>
+<li><a href="https://www.stat.berkeley.edu/~nhejazi/teach/2018_ph290_tlbbd/syllabus.pdf">Syllabus (PDF)</a></li>
+<li>Course Control Number:
+<a href="http://classes.berkeley.edu/content/2018-spring-pbhlth-290-011-sem-011">42472</a></li>
+<li>Lectures: TuTh 11:00A-12:30P in Mulford 230</li>
+<li>Labs: W 2:00-3:00P in Mulford 230</li>
+<li>Mailing list: please subscribe
+<a href="https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/tlbbd-sp2018">here</a></li>
+</ul>
+
+<hr />
+
+<h2 id="u-schedule-u"><u>Schedule</u></h2>
+
+<p>The schedule of video lectures and content is publicly available
+<a href="https://docs.google.com/spreadsheets/d/1YLbRnasRLkNRc3wsXlDB2ljk-vq5l4_H6Ihn1rgVinE/edit?usp=sharing">here</a>.</p>
+
+<h2 id="sketch-of-topics">Sketch of Topics:</h2>
+
+<ul>
+<li>The roadmap of statistical learning, examples of data-generating experiments,
+traditional data analysis</li>
+<li>Structural causal models, causal quantities, identification, interventions,
+optimal interventions, and identifiability results</li>
+<li>Nonparametric density estimation, Super Learning of a density, Super Learning
+of conditional multinomial distributions or densities</li>
+<li>Super Learner and an oracle inequality for the general cross-validation
+selector, Super Learning in prediction, Super Learning of optimal
+individualized treatment rules</li>
+<li>The Highly Adaptive Lasso (HAL) and nonparametric regression estimators</li>
+<li>Asymptotic linearity, influence curves, and statistical inference based on
+influence curves</li>
+<li>Pathwise differentiable target parameters, gradients and canonical gradient of
+infinite-dimensional models</li>
+<li>Definition of MLEs and NP-MLEs, efficient influence curves, theorems of
+efficiency</li>
+<li>Efficient one-step estimators, online one-step estimators</li>
+<li>Targeted maximum likelihood estimation (TMLE), TMLEs of causal effects of
+multiple time-point interventions based on longitudinal data</li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-1-reproducible-research-with-r-git-github-p-1">Lab 1: Reproducible Research with R, git, GitHub (p.1)</h2>
+
+<p>Our first lab for Targeted Learning in Biomedical Big Data is a simple
+introduction to computationally reproducible research with R, git, and GitHub.
+We&rsquo;ll discuss the importance of computational reproducibility and set some
+standards for how these principles apply to the work we&rsquo;ll do in this class.</p>
+
+<h3 id="resources">Resources</h3>
+
+<ul>
+<li><a href="http://swcarpentry.github.io/git-novice/">Version Control with git (Software
+Carpentry)</a></li>
+<li><a href="http://swcarpentry.github.io/r-novice-gapminder/">R for Reproducible Scientific Analysis (Software
+Carpentry)</a></li>
+<li><a href="http://kbroman.org/Tools4RR/">Tools for Reproducible Research (Karl Broman)</a></li>
+<li><a href="http://happygitwithr.com/">Happy Git and GitHub for the useR (Jenny Bryan)</a></li>
+</ul>
+
+<p><em>The above resources provide a mechanism to remedy any deficiencies that may be
+present in background knowledge on scientific computing. You may wish to consult
+them regularly as the course progresses.</em></p>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-2-reproducible-research-with-r-git-github-p-2">Lab 2: Reproducible Research with R, git, GitHub (p.2)</h2>
+
+<p>For our second lab, we&rsquo;ll continue our discussion of computationally
+reproducible research and further explore the simple toolbox at which we&rsquo;ve
+already started to take a look.</p>
+
+<h3 id="lab-materials">Lab Materials:</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_01">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_01/blob/master/lab_01-and-02.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/tlbbd-spring2018/lab_01/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-3-structural-causal-models-interventions-and-identifiability">Lab 3: Structural Causal Models, Interventions, and Identifiability</h2>
+
+<p>Welcome to our third lab. Here we&rsquo;ll begin discussing a few of the foundational
+principles of statistical causal inference, including structural causal models
+(SCMs), interventions, and the notion of identifiability. We&rsquo;ll draw from
+several references, including our two Targeted Learning texts, as well as
+<a href="https://books.google.com/books/about/Causality.html?id=wnGU_TsW3BQC">Judea Pearl&rsquo;s <em>Causality: Models, Reasoning, and
+Inference</em></a>,
+a canonical reference.</p>
+
+<h3 id="lab-materials">Lab Materials:</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_03">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_03/blob/master/lab_03.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/tlbbd-spring2018/lab_03/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-4-cross-validation-for-error-assessment">Lab 4: Cross-Validation for Error Assessment</h2>
+
+<p>For our fourth lab, we&rsquo;re switching gears from causal inference to statistical
+estimation. We will go through an introduction to cross-validation, a technique
+that ensures we obtain honest estimates of the error of a given statistical
+estimation technique by splitting data splitting. We will also discuss the very
+general implementation of cross-validation in the recently developed <a href="https://cran.r-project.org/package=origami"><code>origami</code>
+R package</a>.</p>
+
+<h3 id="lab-materials">Lab Materials:</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_04">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_04/blob/master/lab_04.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/tlbbd-spring2018/lab_04/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-5-introduction-to-the-super-learner-algorithm">Lab 5: Introduction to the Super Learner Algorithm</h2>
+
+<p>Now that we&rsquo;ve set the stage, for our fifth lab we&rsquo;ll begin discussing flexible,
+data-adaptive estimation (i.e., machine learning), including the asymptotically
+optimal ensemble learning algorithm, Super Learner. We&rsquo;ll dive into how to apply
+the Super Learning approach using the new <a href="https://github.com/tlverse/sl3"><code>sl3</code> R
+package</a>.</p>
+
+<h3 id="lab-materials">Lab Materials</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_05">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_05/blob/master/sl3_intro.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/nhejazi/sl3_lecture/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-6-libraries-and-screening-algorithms-for-super-learning">Lab 6: Libraries and Screening Algorithms for Super Learning</h2>
+
+<p>In our sixth lab meeting, we&rsquo;ll continue discussing Super Learning, an optimal
+approach to ensemble machine learning. Here, we&rsquo;ll dive into how to construct
+algorithmic libraries over which to apply the cross-validation selector that
+forms the heart of the Super Learning procedure. We&rsquo;ll also discuss how to
+perform variable (or observation) screening within this framework. To wrap up,
+we&rsquo;ll apply these procedures using the <a href="https://github.com/tlverse/sl3"><code>sl3</code> R
+package</a>.</p>
+
+<h3 id="lab-materials">Lab Materials</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_06">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_06/blob/master/lab_06.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/tlbbd-spring2018/lab_06/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-7-nonparametric-density-estimation">Lab 7: Nonparametric Density Estimation</h2>
+
+<p>Today, we&rsquo;ll switch topics and begin a discussion on kernel density estimation
+and nonparametric methods for estimating densities. We&rsquo;ll begin by thinking
+about the motivations for kernel density estimation, including a brief review of
+the relevant theory. To make these ideas concrete, we&rsquo;ll walk through how to use
+the <a href="https://github.com/osofr/condensier"><code>condensier</code> R package</a> to perform
+density estimation by fitting generalized linear models at various discrete bins
+over the support of the outcome of interest. This will set the stage for a
+future discussion on Super Learning of densities.</p>
+
+<h3 id="lab-materials">Lab Materials</h3>
+
+<ul>
+<li><a href="https://github.com/tlbbd-spring2018/lab_07">GitHub repo (source)</a></li>
+<li><a href="http://nbviewer.jupyter.org/github/tlbbd-spring2018/lab_07/blob/master/lab_07.ipynb">nbviewer (static HTML)</a></li>
+<li><a href="https://mybinder.org/v2/gh/tlbbd-spring2018/lab_07/master">binder (live
+notebook)</a></li>
+</ul>
+
+<hr />
+
+      </section> 
+    
+  
+    
+      <section>
+      
+
+<h2 id="lab-8-computational-causal-inference-stochastic-treatment-regimes">Lab 8: Computational Causal Inference: Stochastic Treatment Regimes</h2>
+
+<p>Here we revisit a discussion on stochastic treatment regimes and how such rules
+can be implemented when performing simulations. We first review the notion of a
+stochastic treatment rule and how such treatment rules related to dynamic
+treatment allocation strategies. We will step away from examining specific R
+packages and instead place our focus on analyzing the effects of such
+probabilistic interventions using rigorous simulation studies.</p>
+
+<hr />
+
+      </section> 
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+
+
+<footer>
+  <p class="remove-margin-bottom add-padding-right">
+    &copy; 2018 
+    <a href="https://vanderLaan-group.github.io/tlbbd-sp2018/">Mark van der Laan, Nima Hejazi</a>
+  </p>
+
+  <p class="remove-margin-bottom add-padding-right"><small>
+    <a href="https://github.com/eueung/hugo-sp-minimal">Hugo SP-Minimal</a> Theme | 
+    Based on <a href="https://github.com/orderedlist/minimal">Minimal</a>
+  </small></p>    
+</footer>
+
+
+</div><script src="https://vanderLaan-group.github.io/tlbbd-sp2018/js/scale.fix.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.3/highlight.min.js"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+</body></html>

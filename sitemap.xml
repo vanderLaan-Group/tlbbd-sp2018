@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/00-course_info/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/01-repro_res-part_01/</loc>
+    <lastmod>2018-01-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/02-repro_res-part_02/</loc>
+    <lastmod>2018-01-16T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/06-sl_libs/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/07-condensier/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/08-stoch_tx/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/08-hal/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/07-sl_densities/</loc>
+    <lastmod>2018-02-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/06-sl_libs/</loc>
+    <lastmod>2018-02-21T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</loc>
+    <lastmod>2018-02-14T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</loc>
+    <lastmod>2018-02-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/03-causal_mod-part_01/</loc>
+    <lastmod>2018-01-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/02-repro_res-part_02/</loc>
+    <lastmod>2018-01-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/01-repro_res-part_01/</loc>
+    <lastmod>2018-01-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</loc>
+    <lastmod>2018-01-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/</loc>
+    <lastmod>2018-01-10T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/post/</loc>
+    <lastmod>2018-03-07T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://vanderLaan-group.github.io/tlbbd-sp2018/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

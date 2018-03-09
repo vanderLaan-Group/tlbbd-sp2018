@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PH 290-011: TLBBD</title>
+    <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/</link>
+    <description>Recent content in Posts on PH 290-011: TLBBD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Wed, 07 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanderLaan-group.github.io/tlbbd-sp2018/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Highly Adaptive LASSO and the `hal9001` R packages</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/08-hal/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/08-hal/</guid>
+      <description>Eighth lab (we&amp;rsquo;re about halfway now, right?!)
+Today, we&amp;rsquo;ll (try to) have a self-contained discussion of the Highly Adaptive LASSO (HAL), a nonparametric regression estimator with unique and powerful optimality properties. We&amp;rsquo;ll review some of the key theoretical properties of the estimator discussed in the lecture component of the class and then begin to apply HAL by using the hal9001 R package.</description>
+    </item>
+    
+    <item>
+      <title>Super Learning of densities with the `sl3` and `condensier` R packages</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/07-sl_densities/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/07-sl_densities/</guid>
+      <description>Woah, seventh lab meeting already! Today, we&amp;rsquo;ll continue our ongoing discussion of Super Learner, this time taking a look at how to perform density estimation within this framework. We&amp;rsquo;ll begin by thinking about the motivations behind density estimation, and then move on to why we might want to perform density estimation using cross-validation. To make these ideas concrete, we&amp;rsquo;ll walk through how to use the [condensier R package]() to perform density estimation.</description>
+    </item>
+    
+    <item>
+      <title>Super Learner libraries and screening algorithms</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/06-sl_libs/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/06-sl_libs/</guid>
+      <description>In our sixth lab meeting, we&amp;rsquo;ll continue discussing Super Learning, an optimal approach to ensemble machine learning. Here, we&amp;rsquo;ll dive into how to construct algorithmic libraries over which to apply the cross-validation selector that forms the heart of the Super Learning procedure. We&amp;rsquo;ll also discuss how to perform variable (or observation) screening within this framework. To wrap up, we&amp;rsquo;ll apply these procedures using the sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>Introduction to Super Learning and the `sl3` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/05-sl_intro/</guid>
+      <description>Now that we&amp;rsquo;ve set the stage, for our fifth lab we&amp;rsquo;ll begin discussing flexible, data-adaptive estimation (i.e., machine learning), including the asymptotically optimal ensemble learning algorithm, Super Learner. We&amp;rsquo;ll dive into how to apply the Super Learning approach using the new sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/04-causal_mod-part_02/</guid>
+      <description>For our fourth lab, we&amp;rsquo;ll continue our discussion of statistical causal inference, examining structural causal models in greater detail. We&amp;rsquo;ll expand on our conversation from last week by introducing how estimation may be performed using causal models, concluding with an introduction to inverse probability weighted (IPW) estimators.</description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 1)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/03-causal_mod-part_01/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/03-causal_mod-part_01/</guid>
+      <description>Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as the Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/02-repro_res-part_02/</link>
+      <pubDate>Wed, 24 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/02-repro_res-part_02/</guid>
+      <description>For our second lab we&amp;rsquo;ll continue our discussion computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 01)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/01-repro_res-part_01/</link>
+      <pubDate>Wed, 17 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/01-repro_res-part_01/</guid>
+      <description>Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Targeted Learning in Biomedical Big Data!</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</link>
+      <pubDate>Sun, 07 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/post/00-course_info/</guid>
+      <description> Welcome! This is the course website for Targeted Learning in Biomedical Big Data, offered in the Spring 2018 semester at UC Berkeley.
+Course Information  Instructor: Mark van der Laan
+ Graduate Student Instructor: Nima Hejazi
+ Course Control Number: 42472
+ Lectures: TuTh 11:00A-12:30P in Mulford 230
+ Labs: W 2:00-3:00P in Mulford 230
+ Syllabus (PDF)
+  </description>
+    </item>
+    
+  </channel>
+</rss>

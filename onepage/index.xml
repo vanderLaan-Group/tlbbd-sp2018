@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Onepages on PH 290-011: TLBBD</title>
+    <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/</link>
+    <description>Recent content in Onepages on PH 290-011: TLBBD</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Released under the MIT license.</copyright>
+    <lastBuildDate>Wed, 10 Jan 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Welcome to Targeted Learning in Biomedical Big Data!</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/00-course_info/</link>
+      <pubDate>Wed, 10 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/00-course_info/</guid>
+      <description>Welcome! This is the course website for Targeted Learning in Biomedical Big Data, offered in the Spring 2018 semester at UC Berkeley.
+Course Information  Faculty Instructor: Mark van der Laan  Office Hours: Th 1:00-1:45P in Haviland 108  Graduate Student Instructor: Nima Hejazi  Office Hours: W 3:00-4:00P in Haviland 114  Syllabus (PDF) Course Control Number: 42472 Lectures: TuTh 11:00A-12:30P in Mulford 230 Labs: W 2:00-3:00P in Mulford 230 Mailing list: please subscribe here  Schedule The schedule of video lectures and content is publicly available here.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 01)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/01-repro_res-part_01/</link>
+      <pubDate>Mon, 15 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/01-repro_res-part_01/</guid>
+      <description>Lab 1: Reproducible Research with R, git, GitHub (p.1) Our first lab for Targeted Learning in Biomedical Big Data is a simple introduction to computationally reproducible research with R, git, and GitHub. We&amp;rsquo;ll discuss the importance of computational reproducibility and set some standards for how these principles apply to the work we&amp;rsquo;ll do in this class.
+Resources  Version Control with git (Software Carpentry) R for Reproducible Scientific Analysis (Software Carpentry) Tools for Reproducible Research (Karl Broman) Happy Git and GitHub for the useR (Jenny Bryan)  The above resources provide a mechanism to remedy any deficiencies that may be present in background knowledge on scientific computing.</description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research with R, git, and GitHub (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/02-repro_res-part_02/</link>
+      <pubDate>Tue, 16 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/02-repro_res-part_02/</guid>
+      <description> Lab 2: Reproducible Research with R, git, GitHub (p.2) For our second lab, we&amp;rsquo;ll continue our discussion of computationally reproducible research and further explore the simple toolbox at which we&amp;rsquo;ve already started to take a look.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</link>
+      <pubDate>Wed, 31 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/03-causal_mod-part/</guid>
+      <description> Lab 3: Structural Causal Models, Interventions, and Identifiability Welcome to our third lab. Here we&amp;rsquo;ll begin discussing a few of the foundational principles of statistical causal inference, including structural causal models (SCMs), interventions, and the notion of identifiability. We&amp;rsquo;ll draw from several references, including our two Targeted Learning texts, as well as Judea Pearl&amp;rsquo;s Causality: Models, Reasoning, and Inference, a canonical reference.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Structural Causal Models, Interventions, and Identifiability (part 2)</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</link>
+      <pubDate>Wed, 07 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/04-cross_val/</guid>
+      <description> Lab 4: Cross-Validation for Error Assessment For our fourth lab, we&amp;rsquo;re switching gears from causal inference to statistical estimation. We will go through an introduction to cross-validation, a technique that ensures we obtain honest estimates of the error of a given statistical estimation technique by splitting data splitting. We will also discuss the very general implementation of cross-validation in the recently developed origami R package.
+Lab Materials:  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Introduction to Super Learning and the `sl3` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</link>
+      <pubDate>Wed, 14 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/05-sl_intro/</guid>
+      <description> Lab 5: Introduction to the Super Learner Algorithm Now that we&amp;rsquo;ve set the stage, for our fifth lab we&amp;rsquo;ll begin discussing flexible, data-adaptive estimation (i.e., machine learning), including the asymptotically optimal ensemble learning algorithm, Super Learner. We&amp;rsquo;ll dive into how to apply the Super Learning approach using the new sl3 R package.
+Lab Materials  GitHub repo (source) nbviewer (static HTML) binder (live notebook)  </description>
+    </item>
+    
+    <item>
+      <title>Libraries and screening algorithms Super Learning</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/06-sl_libs/</link>
+      <pubDate>Wed, 21 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/06-sl_libs/</guid>
+      <description>Lab 6: Libraries and Screening Algorithms for Super Learning In our sixth lab meeting, we&amp;rsquo;ll continue discussing Super Learning, an optimal approach to ensemble machine learning. Here, we&amp;rsquo;ll dive into how to construct algorithmic libraries over which to apply the cross-validation selector that forms the heart of the Super Learning procedure. We&amp;rsquo;ll also discuss how to perform variable (or observation) screening within this framework. To wrap up, we&amp;rsquo;ll apply these procedures using the sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>Nonparametric density estimation with the `condensier` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/07-condensier/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/07-condensier/</guid>
+      <description>Lab 7: Nonparametric Density Estimation Today, we&amp;rsquo;ll switch topics and begin a discussion on kernel density estimation and nonparametric methods for estimating densities. We&amp;rsquo;ll begin by thinking about the motivations for kernel density estimation, including a brief review of the relevant theory. To make these ideas concrete, we&amp;rsquo;ll walk through how to use the condensier R package to perform density estimation by fitting generalized linear models at various discrete bins over the support of the outcome of interest.</description>
+    </item>
+    
+    <item>
+      <title>Computational Causal Inference: Stochastic Treatment Regimes</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/08-stoch_tx/</link>
+      <pubDate>Wed, 07 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/08-stoch_tx/</guid>
+      <description>Lab 8: Computational Causal Inference: Stochastic Treatment Regimes Here we revisit a discussion on stochastic treatment regimes and how such rules can be implemented when performing simulations. We first review the notion of a stochastic treatment rule and how such treatment rules related to dynamic treatment allocation strategies. We will step away from examining specific R packages and instead place our focus on analyzing the effects of such probabilistic interventions using rigorous simulation studies.</description>
+    </item>
+    
+  </channel>
+</rss>
