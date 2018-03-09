@@ -1,11 +1,11 @@
 .PHONY : all
-all: build deploy
+all: deploy
 
-build:
-	Rscript -e "blogdown::build_site()"
+#build:
+	#Rscript -e "blogdown::build_site()"
 
-serve:
-	Rscript -e "blogdown::serve_site()"
+#serve:
+	#Rscript -e "blogdown::serve_site()"
 
 deploy:
 	sh deploy.sh
