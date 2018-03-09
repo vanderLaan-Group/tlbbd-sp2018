@@ -2,12 +2,12 @@
 title = "Targeted Learning for Survival Analysis"
 description = "A discussion of how to apply Targeted Learning to survival analysis"
 author = "Nima Hejazi"
-publishDate = "2018-04-18"
+publishDate = "2018-04-25"
 draft = false
-weight = 14
+weight = 15
 +++
 
-## Lab 13: Targeted Learning for Survival Analysis
+## Lab 14: Targeted Learning for Survival Analysis
 
 We're almost done -- our penultimate lab! Today, we'll bring together our last
 two discussions on survival analysis and computing TMLEs by taking a look at how

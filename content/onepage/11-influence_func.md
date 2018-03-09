@@ -2,14 +2,14 @@
 title = "Estimation and inference with influence functions"
 description = "An examination of the statistical properties of influence functions"
 author = "Nima Hejazi"
-publishDate = "2018-03-14"
+publishDate = "2018-04-04"
 draft = false
-weight = 10
+weight = 12
 +++
 
-## Lab 9: Estimation and Inference with Influence Functions
+## Lab 11: Estimation and Inference with Influence Functions
 
-_Ninth lab:_ Today, we'll begin the first part of a discussion of influence
+Today, we'll begin the first part of a discussion of influence
 functions, which measure several important properties of estimators. After
 reviewing a few of the topics introduced in the lecture, we'll dive into looking
 at the origin of the theory of influence functions, and we'll wrap up the first

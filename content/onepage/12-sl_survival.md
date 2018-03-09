@@ -2,14 +2,14 @@
 title = "Super Learning in survival analysis"
 description = "A walkthrough of applying Super Learning to estimate time-to-event (survival) outcomes"
 author = "Nima Hejazi"
-publishDate = "2018-04-04"
+publishDate = "2018-04-11"
 draft = false
-weight = 12
+weight = 13
 +++
 
-## Lab 11: Super Learning in Survival Analysis
+## Lab 12: Super Learning in Survival Analysis
 
-Welcome back from Spring break and to our _eleventh_ lab. Today, we'll discuss a
+Today, we'll discuss a
 new type of data structure: time-to-event outcomes. Time-to-event processes are
 the focus of a sub-discipline of statistics known as _survival analysis_. Data
 arising in this setting are _longitudinal_ in nature, as opposed to the mainly

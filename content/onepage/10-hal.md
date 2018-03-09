@@ -2,14 +2,12 @@
 title = "The Highly Adaptive LASSO and the `hal9001` R package"
 description = "A discussion of the Highly Adaptive LASSO, in theory and practice"
 author = "Nima Hejazi"
-publishDate = "2018-03-07"
+publishDate = "2018-03-21"
 draft = false
-weight = 9
+weight = 11
 +++
 
-## Lab 8: The Highly Adaptive LASSO
-
-Eighth lab (we're about halfway now, right?!)
+## Lab 10: The Highly Adaptive LASSO
 
 Today, we'll (try to) have a self-contained discussion of the Highly Adaptive
 LASSO (HAL), a nonparametric regression estimator with unique and powerful

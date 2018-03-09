@@ -2,9 +2,9 @@
 title = "Super Learning of densities with the `sl3` and `condensier` R packages"
 description = "An examination of density estimation within the Super Learning framework"
 author = "Nima Hejazi"
-publishDate = "2018-02-28"
+publishDate = "2018-03-14"
 draft = false
-weight = 8
+weight = 10
 +++
 
 ## Lab 9: Super Learning of Densities
@@ -26,4 +26,3 @@ estimation with arbitrary machine learning algorithms by using the
    notebook)](https://mybinder.org/v2/gh/tlbbd-spring2018/lab_09/master)
 
 ---
-

@@ -2,9 +2,9 @@
 title = "Computational Causal Inference: Stochastic Treatment Regimes"
 description = "An examination of stochastic treatment regimes"
 author = "Nima Hejazi"
-publishDate = "2018-02-28"
+publishDate = "2018-03-07"
 draft = false
-weight = 8
+weight = 9
 +++
 
 ## Lab 8: Computational Causal Inference: Stochastic Treatment Regimes
@@ -17,4 +17,3 @@ packages and instead place our focus on analyzing the effects of such
 probabilistic interventions using rigorous simulation studies.
 
 ---
-

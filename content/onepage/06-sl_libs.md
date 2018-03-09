@@ -1,5 +1,5 @@
 +++
-title = "Super Learner libraries and screening algorithms"
+title = "Libraries and screening algorithms Super Learning"
 description = "A discussion of how to construct Super Learner libraries and apply screening procedures"
 author = "Nima Hejazi"
 publishDate = "2018-02-21"
@@ -7,7 +7,7 @@ draft = false
 weight = 7
 +++
 
-## Lab 6: Super Learner Libraries and Screening Algorithms
+## Lab 6: Libraries and Screening Algorithms for Super Learning
 
 In our sixth lab meeting, we'll continue discussing Super Learning, an optimal
 approach to ensemble machine learning. Here, we'll dive into how to construct

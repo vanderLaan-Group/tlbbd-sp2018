@@ -2,14 +2,14 @@
 title = "Computing Targeted Maximum Likelihood Estimators"
 description = "A general discussion of how to compute TML estimators"
 author = "Nima Hejazi"
-publishDate = "2018-04-11"
+publishDate = "2018-04-18"
 draft = false
-weight = 13
+weight = 14
 +++
 
-## Lab 12: Computing Targeted Maximum Likelihood Estimators
+## Lab 13: Computing Targeted Maximum Likelihood Estimators
 
-Today is our _twelfth_ lab. We'll begin on the final topic of our lab sections:
+Today, we'll begin on the final topic of our lab sections:
 Targeted Maximum Likelihood Estimators (TMLEs). After a quick and general review
 of the key properties of TMLEs, we'll discuss how to construct these estimators,
 and the several steps required to do so. To provide some substance to our

@@ -18,7 +18,7 @@ paginate        = 5
 
   googleAnalytics = ""
 
-  name = "Mark van der Laan, Nima Hejazi, Wilson Cai, David Benkeser"
-  description = "Welcome to the course website for Targeted Learning in Biomedical Big Data at UC Berkeley in Spring 2018."
+  name = "Mark van der Laan, Nima Hejazi"
+  description = "A special topics in Biostatistics course at UC Berkeley in Spring 2018."
   pageNotFoundTitle = "404 - Page not found"
 

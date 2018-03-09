@@ -4,7 +4,7 @@ description = "A rapid discussion of recent developments in the Targeted Learnin
 author = "Nima Hejazi"
 publishDate = "2018-04-25"
 draft = false
-weight = 15
+weight = 16
 +++
 
 ## Lab 14: Special Topics in Targeted Learning
