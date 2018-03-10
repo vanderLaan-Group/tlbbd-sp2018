@@ -7,7 +7,7 @@ draft = false
 weight = 2
 +++
 
-## Lab 1: Reproducible Research with R, git, GitHub (p.1)
+## Lab 1: Reproducible Research with R, git, GitHub I
 
 Our first lab for Targeted Learning in Biomedical Big Data is a simple
 introduction to computationally reproducible research with R, git, and GitHub.

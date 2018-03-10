@@ -27,7 +27,7 @@ git rm -rf *
 popd
 
 msg "Building the website"
-./hugo_0.32.2
+./hugo_0.32.2_64bit_macos
 
 msg "Pushing the updated \`public\` folder to the \`master\` branch"
 pushd public

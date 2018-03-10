@@ -22,6 +22,8 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
     [42472](http://classes.berkeley.edu/content/2018-spring-pbhlth-290-011-sem-011)
 * Lectures: TuTh 11:00A-12:30P in Mulford 230
 * Labs: W 2:00-3:00P in Mulford 230
+* Lab materials are available on GitHub
+    [here](https://github.com/tlbbd-spring2018)
 * Mailing list: please subscribe
     [here](https://groups.google.com/a/lists.berkeley.edu/forum/#!forum/tlbbd-sp2018)
 
