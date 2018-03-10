@@ -15,8 +15,8 @@ Data, offered in the Spring 2018 semester at UC Berkeley.
 * Faculty Instructor: [Mark van der
     Laan](https://vanderlaan-group.github.io/about/)
   * Office Hours: Th 1:00-1:45P in Haviland 108
-* Graduate Student Instructor: [Nima Hejazi](https://nimahejazi.org)
-  * Office Hours: W 3:00-4:00P in Haviland 114
+* Graduate Student Instructor: [Nima Hejazi](https://www.stat.berkeley.edu/~nhejazi)
+  * Office Hours: W 3:00-4:00P in Mulford 230
 * [Syllabus (PDF)](https://www.stat.berkeley.edu/~nhejazi/teach/2018_ph290_tlbbd/syllabus.pdf)
 * Course Control Number:
     [42472](http://classes.berkeley.edu/content/2018-spring-pbhlth-290-011-sem-011)
