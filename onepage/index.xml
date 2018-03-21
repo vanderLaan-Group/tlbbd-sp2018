@@ -99,5 +99,23 @@ Lab Materials  GitHub repo (source) nbviewer (static HTML) binder (live notebook
       <description>Lab 8: Computational Causal Inference: Stochastic Treatment Regimes Here we revisit a discussion on stochastic treatment regimes and how such rules can be implemented when performing simulations. We first review the notion of a stochastic treatment rule and how such treatment rules related to dynamic treatment allocation strategies. We will step away from examining specific R packages and instead place our focus on analyzing the effects of such probabilistic interventions using rigorous simulation studies.</description>
     </item>
     
+    <item>
+      <title>Super Learning of densities with the `sl3` and `condensier` R packages</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/09-sl_densities/</link>
+      <pubDate>Wed, 14 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/09-sl_densities/</guid>
+      <description>Lab 9: Super Learning of Densities Today, we&amp;rsquo;ll continue our ongoing discussion of Super Learner, this time taking a look at how to perform density estimation within this framework. Having discussed the motivations behind density estimation, we&amp;rsquo;ll jump right in to considering how to optimally perform density estimation using cross-validation. To make these ideas concrete, we&amp;rsquo;ll walk through how to use the condensier R package to perform density estimation with arbitrary machine learning algorithms by using the sl3 R package.</description>
+    </item>
+    
+    <item>
+      <title>The Highly Adaptive LASSO and the `hal9001` R package</title>
+      <link>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/10-hal/</link>
+      <pubDate>Wed, 21 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://vanderLaan-group.github.io/tlbbd-sp2018/onepage/10-hal/</guid>
+      <description>Lab 10: The Highly Adaptive LASSO Today, we&amp;rsquo;ll (try to) have a self-contained discussion of the Highly Adaptive LASSO (HAL), a nonparametric regression estimator endowed with powerful optimality properties and defined using the class of functions of bounded variation norm. We&amp;rsquo;ll review some of the key theoretical properties of the estimator discussed in the lecture component of the class and then begin to apply HAL by using the hal9001 R package.</description>
+    </item>
+    
   </channel>
 </rss>
